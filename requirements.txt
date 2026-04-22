@@ -1,0 +1,4 @@
+pytesseract
+Pillow
+transformers
+pymupdf>=1.27.1
